@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=pink&height=300&section=header&text=@you._.jin_2&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=soft&color=random&height=300&section=header&text=@you._.jin_2&fontSize=60)
 
