@@ -50,7 +50,6 @@ Here are some ideas to get you started:
 
 <br/>  
 
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/youjin2github" target="_blank">
