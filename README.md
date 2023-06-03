@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.notion.so/168198d22dbe49e19e021ec7f3e647e3" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white alt=notion style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white alt=notion style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
