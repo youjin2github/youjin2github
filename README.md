@@ -29,33 +29,33 @@ Here are some ideas to get you started:
 <br/>  
 
 ## My Skill Set  
-<table><tr><td valign="top" width="53%">
+<table><tr><td valign="top" width="33%">
 <div align="center">  
-<img src="https://img.shields.io/badge/Python-EE4C2C?style=flat&logo=EE4C2C&logoColor=white" height="50" />
-<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" height="50" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=SQL&logoColor=white" height="50" />
+<img src="https://img.shields.io/badge/Python-EE4C2C?style=flat&logo=EE4C2C&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=SQL&logoColor=white" height="30" />
   
 </div>
 
-</td><td valign="top" width="53%">
+</td><td valign="top" width="33%">
 
 <div align="center">  
-<img src="https://img.shields.io/badge/Hue-0065D3?style=flat&logo=Hue&logoColor=white" height="50" />
-<img src="https://img.shields.io/badge/Zepplin-4E5EE4?style=flat&logo=Zepplin&logoColor=white" height="50" />
-<img src="https://img.shields.io/badge/HADOOP-66CCFF?style=flat&logo=HADOOP&logoColor=white" height="50" />
-<img src="https://img.shields.io/badge/powerbi-F2C811?style=flat&logo=powerbi&logoColor=white" height="50" />
-<img src="https://img.shields.io/badge/plotly-3F4F75?style=flat&logo=plotly&logoColor=white" height="50" />
+<img src="https://img.shields.io/badge/Hue-0065D3?style=flat&logo=Hue&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Zepplin-4E5EE4?style=flat&logo=Zepplin&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/HADOOP-66CCFF?style=flat&logo=HADOOP&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/powerbi-F2C811?style=flat&logo=powerbi&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/plotly-3F4F75?style=flat&logo=plotly&logoColor=white" height="30" />
   
 </div>
 
-</td><td valign="top" width="53%">
+</td><td valign="top" width="33%">
 
 <div align="center">  
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" height="50" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" height="50" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" height="50" />
-<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Confluence&logoColor=white" height="50" />
-<img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat&logo=amazonec2&logoColor=white" height="50" />
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Confluence&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat&logo=amazonec2&logoColor=white" height="30" />
 
 </div>
 
