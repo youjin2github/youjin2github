@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 <div align="center">  
-<img src="https://img.shields.io/badge/Python-EE4C2C?style=flat&logo=EE4C2C&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Python-EE4C2C?style=flat&logo=Python&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/jupyter-EE4C2C?style=flat&logo=jupyter&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=SQL&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat&logo=amazonec2&logoColor=white" height="30" />
