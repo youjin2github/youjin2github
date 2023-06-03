@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
+  
+<img alt="python" src ="https://img.shields.io/badge/python-#3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
