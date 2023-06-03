@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## [ PORTFOLIO (in KaKaopay) ] !!please click!!
 <div align="center">
 </a>
-<a href="https://www.notion.so/168198d22dbe49e19e021ec7f3e647e3" target="_blank">
+<a href="[https://www.notion.so/168198d22dbe49e19e021ec7f3e647e3](https://legend-apricot-e30.notion.site/168198d22dbe49e19e021ec7f3e647e3?pvs=4)" target="_blank">
 <img src=https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white alt=notion style="margin-bottom: 35px;" height="100" />
 </a>  
 </div>  
