@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br/>  
 
 
-## portfolio (in KaKaopay)  
+## portfolio (in KaKaopay) please click 
 <div align="center">
 </a>
 <a href="https://www.notion.so/168198d22dbe49e19e021ec7f3e647e3" target="_blank">
