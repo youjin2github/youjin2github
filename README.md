@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </div>  
 
 
-## tistory BLOG (for study) 
+## Tistory BLOG (for study) 
 <div align="center">
 </a>
 <a href="https://nobi-kimtosun.tistory.com/" target="_blank">
