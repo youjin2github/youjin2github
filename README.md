@@ -26,15 +26,10 @@ Here are some ideas to get you started:
 </a>  
 </div>  
 
-
 ## Tistory BLOG (for study) 
 <div align="center">
-</a>
-<a href="https://nobi-kimtosun.tistory.com/">
-</a>  
-</div>  
-
-
+  <a href="https://nobi-kimtosun.tistory.com/">Visit My Tistory Blog</a>
+</div>
 
   
 <br/>  
