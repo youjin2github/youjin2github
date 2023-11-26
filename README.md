@@ -26,10 +26,7 @@ Here are some ideas to get you started:
 </div>  
 
 
-## Tistory BLOG (for study) 
-<div align="center">
-  <a href="https://nobi-kimtosun.tistory.com/">Visit My Tistory Blog</a>
-</div>
+## Tistory BLOG 
 
   
 <br/>  
