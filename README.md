@@ -34,6 +34,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=SQL&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat&logo=amazonec2&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/amazonec2-F7DF1E?style=flat&logo=JavaScript&logoColor=white" height="30" />
+
   
 </div>
 
