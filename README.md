@@ -21,9 +21,7 @@ Here are some ideas to get you started:
  
 
 
-## Tistory BLOG 
-  
-< https://nobi-kimtosun.tistory.com/ >
+## [Tistory BLOG](https://nobi-kimtosun.tistory.com/)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
