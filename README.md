@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Tistory BLOG 
   
-<br/>  https://nobi-kimtosun.tistory.com/
+< https://nobi-kimtosun.tistory.com/ >
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
