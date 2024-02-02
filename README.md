@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 ## Tistory BLOG 
-
+https://nobi-kimtosun.tistory.com/
   
 <br/>  
 
